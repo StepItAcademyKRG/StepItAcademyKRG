@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://s.dou.ua/img/static/companies/0_wNdsOHj.jpg" alt="Project Logo" width="726">
+      <img src="https://inshe.tv/wp-content/uploads/2022/04/hag.jpg" alt="Project Logo" width="726">
 </p>
 
 ## About
